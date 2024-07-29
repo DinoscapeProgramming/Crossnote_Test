@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "crossnote": "^0.9.9",
+    "express": "^4.19.2"
+  }
 }
