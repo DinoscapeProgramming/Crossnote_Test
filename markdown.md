@@ -9,7 +9,7 @@
 * vor 1 Monat
   - Leon kommt mit Stella zusammen.
   
-**--> Kontext**
+**-->  Kontext**
 * vor 1 Woche
   - In einem privaten Raum gesteht Stella ihre laut eigener Aussage starken Gefühle für Lukas.
 * am 24.07.2024
@@ -20,7 +20,7 @@
   - Lena rettet Beziehung.
   - Elly und Lukas fangen Ermittlungen an und informieren Alea.
 
-**--> Geschehen**
+**-->  Geschehen**
 
 ## Tatmotiv
 - Nach der Trennung mit Lukas, da sie zu jung für ihn war, hat Stella immer noch Gefühle für ihn.
