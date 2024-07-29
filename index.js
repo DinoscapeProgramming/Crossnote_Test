@@ -5,6 +5,8 @@ const { Worker } = require("worker_threads");
 
 if (!fs.readdirSync(__dirname).includes("markdown.html")) new Worker("./worker.js");
 
+app.use("/public", express.static("public"));
+
 app.all("/*", (req, res) => {
   res.sendFile("markdown.html", {
     root: __dirname

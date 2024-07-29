@@ -52,10 +52,10 @@
 
 ### Beweis
 #### Stellas IP-Adresse
-![91.61.173.131](/stella.png)
+![91.61.173.131](/public/stella.png)
 
 #### "Tabea"s IP-Adresse
-![91.61.173.131](/tabea.png)
+![91.61.173.131](/public/tabea.png)
 
 #### Chatverlauf der Konfrontation
 https://justpaste.it/b3651/pdf
