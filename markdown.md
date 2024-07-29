@@ -1,6 +1,6 @@
 # Thematik zu Stella
 
-# Handlungsablauf
+## Handlungsablauf
 * vor 4 Monaten bis vor 3 Monaten
   - Stella ist mit Lukas zusammen.
 * vor 3 Monaten
