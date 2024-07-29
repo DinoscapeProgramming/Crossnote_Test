@@ -6,7 +6,7 @@
 * vor 3 Monaten
   - Lukas kommt mit Liv zusammen.
   - --> Eifersuchtsentwicklungen bei Stella.
-* vor 2 Monaten
+* vor 1 Monat
   - Leon kommt mit Stella zusammen.
   
 **--> Kontext**
