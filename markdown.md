@@ -1,5 +1,8 @@
 # Thematik zu Stella
 
+## Ereignis
+Stella hat als gefälschter Lukas mit Liv Schluss gemacht, da sie eifersüchtig auf sie war.
+
 ## Handlungsablauf
 * vor 4 Monaten bis vor 3 Monaten
   - Stella ist mit Lukas zusammen.
