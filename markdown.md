@@ -116,3 +116,6 @@ https://justpaste.it/fq55r/pdf
 - 4. Auf die Anfrage, eine Seite, die insgeheim auch in IP Tracker war, zu öffnen, fragte die gefälschte "Zara" nur, was das denn sei und ist sofort danach aus der öffentlichen Lobby gegangen und konnte sonst auch nicht mehr in anderen öffentlichen skribbl.io-Lobbys vorgefunden werden. Höchstwahrscheinlich wusste die gefälschte "Zara", dass der Link ein IP-Tracker war, da Stella in der Konfrontation auf die übereinstimmende IP-Adresse angesprochen wurde und daraus geschlossen hat, dass die Links, die sie geöffnet hatte, IP-Tracker waren.
 
 *--> Wahrscheinlichkeitsrate: 50%*
+
+## Fazit
+Stellas Eifersucht führte zu einer Reihe von Täuschungsversuchen, um die Beziehung zwischen Lukas und Liv zu sabotieren. Trotz ihrer Bemühungen, ihre Identität zu verschleiern und die Schuld auf andere zu schieben, wurden ihre Täuschungen durch die aufmerksame Zusammenarbeit von Lukas, Elly, Alea und anderen Freunden aufgedeckt. Die Nutzung von IP-Tracking und die Beobachtung von Verhaltensmustern spielten eine zentrale Rolle bei der Entlarvung von Stellas Lügen. Diese Zusammenfassung zeigt die Folgen von Eifersucht und die Bedeutung von Vertrauen und Ehrlichkeit.
