@@ -117,5 +117,26 @@ https://justpaste.it/fq55r/pdf
 
 *--> Wahrscheinlichkeitsrate: 50%*
 
+## Folgen
+
+- Leon und Stella haben Schluss gemacht.
+- Elly und Lukas brachen den Kontakt mit Stella ab.
+- Reem überlegt darüber, ob sie weiter mit Stella befreundet sein will.
+
+### Zeugenaussagen
+
+#### Leon
+`
+Es ist schwierig.
+`
+
+#### Samira
+`
+Ich weiß nicht. Anfangs war sie ja nett und so, aber ich gehe ja auf die gleiche Schule wie sie. Und in letzter Zeit ist sie ein richtiges „Pick-Me-Girl“ geworden, eine Frau, die sich bei Männern beliebt machen will. Auch lästert sie über viele, selbst euch.
+`
+
+#### Reem
+`Zunächst wollte ich mit ihr befreundet sein, jetzt weiß ich aber nicht mehr weiter.`
+
 ## Fazit
 Stellas Eifersucht führte zu einer Reihe von Täuschungsversuchen, um die Beziehung zwischen Lukas und Liv zu sabotieren. Trotz ihrer Bemühungen, ihre Identität zu verschleiern und die Schuld auf andere zu schieben, wurden ihre Täuschungen durch die aufmerksame Zusammenarbeit von Lukas, Elly, Alea und anderen Freunden aufgedeckt. Die Nutzung von IP-Tracking und die Beobachtung von Verhaltensmustern spielten eine zentrale Rolle bei der Entlarvung von Stellas Lügen. Diese Zusammenfassung zeigt die Folgen von Eifersucht und die Bedeutung von Vertrauen und Ehrlichkeit.
