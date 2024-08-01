@@ -29,7 +29,7 @@ Stella hat als gefälschter Lukas mit Liv Schluss gemacht, da Stella eifersücht
 - Nach der Trennung mit Lukas, da sie zu jung für ihn war, hat Stella immer noch Gefühle für ihn.
 - Als Lukas mit Liv zusammen kommt, wird Stella noch eifersüchtiger.
 - Deshalb geht sie Beziehungen ein mit Leuten, für die sie keine echten Gefühle hat.
-- Da sie merkt, dass das ichts bringt, überlegt sie sich einen Plan, Liv von Lukas zu trennen.
+- Da sie merkt, dass das nichts bringt, überlegt sie sich einen Plan, Liv von Lukas zu trennen.
 
 ## Erster Vertuschungsversuch
 
