@@ -126,16 +126,15 @@ https://justpaste.it/fq55r/pdf
 ### Zeugenaussagen
 
 **Leon**
-`
-Es ist schwierig.
-`
+<br />
+`Es ist schwierig.`
 
 **Samira**
-`
-Ich weiß nicht. Anfangs war sie ja nett und so, aber ich gehe ja auf die gleiche Schule wie sie. Und in letzter Zeit ist sie ein richtiges „Pick-Me-Girl“ geworden, eine Frau, die sich bei Männern beliebt machen will. Auch lästert sie über viele, selbst euch.
-`
+<br />
+`Ich weiß nicht. Anfangs war sie ja nett und so, aber ich gehe ja auf die gleiche Schule wie sie. Und in letzter Zeit ist sie ein richtiges „Pick-Me-Girl“ geworden, eine Frau, die sich bei Männern beliebt machen will. Auch lästert sie über viele, selbst euch.`
 
 **Reem**
+<br />
 `Zunächst wollte ich mit ihr befreundet sein, jetzt weiß ich aber nicht mehr weiter.`
 
 ## Fazit
