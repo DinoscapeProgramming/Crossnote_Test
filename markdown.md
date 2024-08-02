@@ -18,7 +18,7 @@ Stella hat als gefälschter Lukas mit Liv Schluss gemacht, da Stella eifersücht
 * am 24.07.2024
   - Stella kommt als Lukas' Avatar verkleidet auf skribbl.io und macht als "Lukas" mit Liv, Lukas' jetzigen Freundin, Schluss.
 * am 25.07.2024
-  - Samira erzählt Lukas, dass ein gefälschter Lukas mit Liv Schluss gemacht hat.
+  - Lukas wird erzählt, dass ein gefälschter Lukas mit Liv Schluss gemacht hat.
 * vor kurzem
   - Lena rettet Beziehung.
   - Elly und Lukas fangen Ermittlungen an und informieren Alea.
@@ -75,14 +75,14 @@ https://justpaste.it/b3651/pdf
 
 ### Geschehen
 - Da Stella nach der Konfrontation von Alea gemerkt hat, dass sie aufgeflogen ist, überlegt sie sich einen Plan B, um das Geschehen zu vertuschen.
-- Deswegen versucht sie alles, was geschehen ist auf eine zweite Stella zu schieben und joint auf zwei unterschiedlichen Geräten in eine öffentliche Lobby.
+- Deswegen versucht sie alles, was geschehen ist, auf eine zweite Stella zu schieben und joint auf zwei unterschiedlichen Geräten in eine öffentliche Lobby.
 - Als Elly und Alea sie finden, schiebt sie es auf die zweite Stella.
-- Alea durchschaut aber, was hier passiert, und holt Elly mit in eine private Lobby, um hinter dem Rücken einen Plan zu besprechen, mit dem sie herausfinden konnten, ob die zweite Stella dieselbe wie die erste ist.
+- Alea durchschaut aber, was hier passiert, und holt Elly mit in eine private Lobby, um hinter dem Rücken von Stella einen Plan zu besprechen, mit dem sie herausfinden konnten, ob die zweite Stella dieselbe wie die erste ist.
 - Daraufhin konfrontieren sie die beiden Stellas in der öffentlichen Lobby und äußern ihren Verdacht.
 - Deswegen geht Stella in die private Lobby mit Elly und Alea.
 - Dort sagt Stella nach der Konfrontation, dass sie nicht wüsste, was eine IP-Adresse sei.
 - Dort lenkt sie ab vom eigentlichen Thema und redet darüber, dass sie doch auf einem Tablet der Schule spiele.
-- Am nächsten Tag, hat die angeblich andere Stella ihren Namen geändert zu dem einfachen Schriftzug `Stella`, aber den Avatar gleichgelassen wie der normale von ihr.
+- Am nächsten Tag, hat die angeblich andere Stella ihren Namen geändert zu dem einfachen Schriftzug `Stella`, aber den Avatar gleich gelassen wie der normale von ihr.
 
 ### Beweise
 1. https://justpaste.it/apbmo/pdf
@@ -93,8 +93,8 @@ https://justpaste.it/b3651/pdf
 - 1. Stella und die angeblich andere Stella konnten nie gleichzeitig schreiben in den Chat. Selbst nach Anforderung kamen ihre Nachrichten nacheinander und Stella 1 und Stella 2 schoben die Ursache darauf, dass sie unterschiedlich schnell tippen. Da sie selbst Wörter, die 4 Zeichen lang waren, zum Erraten des Worts im Spiel, zu unterschiedlichen Zeiten tippten, konnte das nicht wahr sein.
 - 2. Beide Stellas hatten die gleiche Schreibweise. Lukas, Elly und Alea, die alle die echte andere Stella kannten, haben deshalb sofort bemerkt, dass das die gleichen Personen waren. Oftmals kamen nacheinander Nachrichten wie `Ich bin 16` von einer Stella und `Ich bin 12` von der anderen Stella in den Chat mit der gleichen Formattierung, die durch die Autokorrektur erzeugt wurde.
 - 3. Beide Stellas haben sehr ähnlich gezeichnet und als sie die Lösung des Wortes für das Spiel auf den Malbereich geschrieben hatten, sah auch ihre Handschrift identisch aus.
-- 4. Beide Stellas hatten den gleichen Avatar, da Stella wahrscheinlich auf beiden normalerweise als die normale Stella spielte.
-- 5. Wegen dem Zeitdruck zur Ausführung des Plans sah auch der Spielname fast identisch aus mit den gleichen Emojis und Zeichen links und rechts vom Schriftzug. Der einzige Unterschied war das schnelle Rauslöschen des Schriftzugs und anschließendem Ersetzen durch normale ASCII-Zeichen bei der angeblich anderen Stella. Jedoch hat die echte andere Stella einen alleine stehenden, anderen Schriftzug in einer anderen Schriftart. In der Schnelle hat die eine Stella nicht die echte, andere Stella finden können, um ihren Schriftzug zu kopieren.
+- 4. Beide Stellas hatten den gleichen Avatar, da Stella wahrscheinlich auf beiden Geräten normalerweise als die normale Stella spielte.
+- 5. Wegen dem Zeitdruck zur Ausführung des Plans sah auch der Spielname fast identisch aus mit den gleichen Emojis und Zeichen links und rechts vom Schriftzug. Der einzige Unterschied war das schnelle Herauslöschen des Schriftzugs und anschließendem Ersetzen durch normale ASCII-Zeichen bei der angeblich anderen Stella. Jedoch hat die echte andere Stella einen alleine stehenden, anderen Schriftzug in einer anderen Schriftart. In der Schnelle hat die eine Stella nicht die echte, andere Stella finden können, um ihren Schriftzug zu kopieren.
 - 6. Nach der Konfrontation wusste Stella natürlich, dass der Link ein IP-Tracker ist und als die angeblich andere Stella von Alea gefragt wurde, einen interessanten Link zu öffnen, meinte diese diesmal, dass sie keine Links öffnen könne auf ihrem Tablet der Schule. Allerdings konnte sie den Link am Vortag auch öffnen und da skribbl.io ein Onlinespiel ist, hätte sie auch den Link zum Spiel öffnen müssen, um es zu spielen.
 - 7. Da Stella nun wusste, dass sie vergessen hatte, ihren skribbl.io-Avatar zu ändern für die angeblich andere Stella, tat sie das nun. Dabei ging sie raus und wieder rein in öffentliche Lobbys mit jeweils unterschiedlichen Farben als Skin.
 
@@ -104,16 +104,16 @@ https://justpaste.it/b3651/pdf
 
 ### Geschehen 
 - Da Zara komischerweise, auf Stellas Seite war, als ihr das Geschehnis erzählt wurde von Elly und Alea, hatte Stella höchstwahrscheinlich die Idee, Zara, eventuell mit Zaras eigenen Hilfe, zu fälschen und als "Zara" Lukas, Elly und Alea zu drohen, niemals irgendjemanden von allem zu erzählen.
-- Als die gefälschte "Zara" auf skribbl.io Alea getroffen hat, hat Alea sofort bemerkt, dass es natürlich nicht die echte Zara ist an der Redensart.
+- Als die gefälschte "Zara" auf skribbl.io Alea getroffen hat, hat Alea an der Redensart sofort bemerkt, dass es natürlich nicht die echte Zara ist.
 
 ### Beweise
 https://justpaste.it/fq55r/pdf
 
 **Weitere Ungereimtheiten, die Stella entlarven**
 - 1. Die gefälschte Zara verhielt sich anders als die echte und hat bei der Begrüßung von Alea nicht mit `Heyyyyy birne` wie normalerweise geantwortet.
-- 2. Als die gefälschte "Zara" auf den Malbereich geschrieben hatte, sah die Schrift anders aus, als die der echten Zara.
-- 3. Sie kannte den Code von Alea und ihr nicht und fragte stattdessen, ob sie denn wirklich einen Code haben.
-- 4. Auf die Anfrage, eine Seite, die insgeheim auch in IP Tracker war, zu öffnen, fragte die gefälschte "Zara" nur, was das denn sei und ist sofort danach aus der öffentlichen Lobby gegangen und konnte sonst auch nicht mehr in anderen öffentlichen skribbl.io-Lobbys vorgefunden werden. Höchstwahrscheinlich wusste die gefälschte "Zara", dass der Link ein IP-Tracker war, da Stella in der Konfrontation auf die übereinstimmende IP-Adresse angesprochen wurde und daraus geschlossen hat, dass die Links, die sie geöffnet hatte, IP-Tracker waren.
+- 2. Als die gefälschte "Zara" auf den Malbereich geschrieben hatte, sah die Schrift anders aus als die der echten Zara.
+- 3. Sie kannte den Code von Alea und ihr nicht und fragte stattdessen, ob sie denn wirklich einen Code hätten.
+- 4. Auf die Anfrage, eine Seite, die insgeheim auch ein IP Tracker war, zu öffnen, fragte die gefälschte "Zara" nur, was die Seite denn sei und ist sofort danach aus der öffentlichen Lobby gegangen und konnte sonst auch nicht mehr in anderen öffentlichen skribbl.io-Lobbys vorgefunden werden. Höchstwahrscheinlich wusste die gefälschte "Zara", dass der Link ein IP-Tracker war, da Stella während der Konfrontation auf die übereinstimmende IP-Adresse angesprochen wurde und daraus geschlossen hat, dass die Links, die sie geöffnet hatte, IP-Tracker waren.
 
 *--> Wahrscheinlichkeitsrate: 50%*
 
@@ -131,11 +131,15 @@ https://justpaste.it/fq55r/pdf
 
 **Samira**
 <br />
-`Ich weiß nicht. Anfangs war sie ja nett und so, aber ich gehe ja auf die gleiche Schule wie sie. Und in letzter Zeit ist sie ein richtiges „Pick-Me-Girl“ geworden, eine Frau, die sich bei Männern beliebt machen will. Auch lästert sie über viele, selbst euch.`
+`Ich weiß nicht. Anfangs war sie ja nett und so, aber ich gehe halt auf die gleiche Schule wie sie. Und in letzter Zeit ist sie ein richtiges „Pick-Me-Girl“ geworden, eine Frau, die sich bei Männern beliebt machen will. Auch lästert sie über viele, selbst euch.`
 
 **Reem**
 <br />
 `Zunächst wollte ich mit ihr befreundet sein, jetzt weiß ich aber nicht mehr weiter.`
 
 ## Fazit
-Stellas Eifersucht führte zu einer Reihe von Täuschungsversuchen, um die Beziehung zwischen Lukas und Liv zu sabotieren. Trotz ihrer Bemühungen, ihre Identität zu verschleiern und die Schuld auf andere zu schieben, wurden ihre Täuschungen durch die aufmerksame Zusammenarbeit von Lukas, Elly, Alea und anderen Freunden aufgedeckt. Die Nutzung von IP-Tracking und die Beobachtung von Verhaltensmustern spielten eine zentrale Rolle bei der Entlarvung von Stellas Lügen. Diese Zusammenfassung zeigt die Folgen von Eifersucht und die Bedeutung von Vertrauen und Ehrlichkeit.
+Stellas Eifersucht führte zu einer Reihe von Täuschungsversuchen, um die Beziehung zwischen Lukas und Liv zu sabotieren. Trotz ihrer Bemühungen, ihre Identität zu verschleiern und die Schuld auf andere zu schieben, wurden ihre Täuschungen durch die aufmerksame Zusammenarbeit von Lukas, Elly und Alea aufgedeckt. Die Nutzung von IP-Trackern und die Beobachtung von Verhaltensmustern spielten eine zentrale Rolle bei der Entlarvung von Stellas Lügen. Diese Zusammenfassung zeigt die Folgen von Eifersucht und die Bedeutung von Vertrauen und Ehrlichkeit.
+
+---
+
+> Stand 28.07.2024
