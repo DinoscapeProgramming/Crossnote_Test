@@ -74,7 +74,7 @@ https://justpaste.it/b3651/pdf
 ## Zweiter Vertuschungsversuch
 
 ### Geschehen
-- Da Stella nach der Konfrontation von Alea gemerkt hat, dass sie aufgeflogen ist, überlegt sie sich einen Plan B, das Geschehen zu vertuschen.
+- Da Stella nach der Konfrontation von Alea gemerkt hat, dass sie aufgeflogen ist, überlegt sie sich einen Plan B, um das Geschehen zu vertuschen.
 - Deswegen versucht sie alles, was geschehen ist auf eine zweite Stella zu schieben und joint auf zwei unterschiedlichen Geräten in eine öffentliche Lobby.
 - Als Elly und Alea sie finden, schiebt sie es auf die zweite Stella.
 - Alea durchschaut aber, was hier passiert, und holt Elly mit in eine private Lobby, um hinter dem Rücken einen Plan zu besprechen, mit dem sie herausfinden konnten, ob die zweite Stella dieselbe wie die erste ist.
